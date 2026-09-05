@@ -1,0 +1,34 @@
+# ==============================
+# Data Generation & Manipulation
+# ==============================
+pandas
+numpy
+Faker
+
+# ==============================
+# Data Ingestion & APIs
+# ==============================
+requests
+openpyxl
+
+# ==============================
+# Configuration
+# ==============================
+python-dotenv
+PyYAML
+
+# ==============================
+# Data Quality & Testing
+# ==============================
+pytest
+
+# ==============================
+# Database Connectivity
+# ==============================
+SQLAlchemy
+
+# ==============================
+# Development / Notebooks
+# ==============================
+jupyter
+ipykernel

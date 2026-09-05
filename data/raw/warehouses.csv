@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city,state,capacity
+W001,Warehouse 1,Mathura,Himachal Pradesh,27156
+W002,Warehouse 2,Solapur,Tamil Nadu,6378
+W003,Warehouse 3,Noida,Himachal Pradesh,43555
+W004,Warehouse 4,Imphal,Nagaland,41301
+W005,Warehouse 5,Durgapur,Chhattisgarh,20080
+W006,Warehouse 6,Yamunanagar,Tamil Nadu,43564
+W007,Warehouse 7,Kakinada,Assam,19432
+W008,Warehouse 8,Vellore,Karnataka,5471
+W009,Warehouse 9,Vijayanagaram,Arunachal Pradesh,9652
+W010,Warehouse 10,Bidar,Madhya Pradesh,46359

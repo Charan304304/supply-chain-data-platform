@@ -1,0 +1,12 @@
+filename,records,status,error,ingestion_time
+suppliers.csv,100,SUCCESS,,2026-09-01 22:34:46.067492
+products.csv,1000,SUCCESS,,2026-09-01 22:34:46.080673
+warehouses.csv,10,SUCCESS,,2026-09-01 22:34:46.096793
+customers.csv,10000,SUCCESS,,2026-09-01 22:34:46.135578
+inventory.csv,1000,SUCCESS,,2026-09-01 22:34:46.152158
+orders.csv,100000,SUCCESS,,2026-09-01 22:34:46.474242
+shipments.csv,59953,SUCCESS,,2026-09-01 22:34:46.733939
+erp/supplier_master.csv,100,SUCCESS,,2026-09-01 22:42:02.024021
+erp/product_master.csv,1000,SUCCESS,,2026-09-01 22:42:02.051588
+erp/warehouse_master.csv,10,SUCCESS,,2026-09-01 22:42:02.080906
+erp/purchase_orders.csv,10000,SUCCESS,,2026-09-01 22:42:02.175135

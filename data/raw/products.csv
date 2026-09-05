@@ -1,0 +1,1001 @@
+product_id,product_name,category,supplier_id,unit_cost
+P00001,Visionary optimal standardization,Electronics,S0030,3463.28
+P00002,Ameliorated well-modulated orchestration,Electronics,S0043,3635.78
+P00003,Multi-tiered mission-critical ability,Furniture,S0036,33481.99
+P00004,Multi-channeled exuding system engine,Furniture,S0070,6702.36
+P00005,Networked intangible monitoring,Automotive,S0074,23686.28
+P00006,User-friendly user-facing moratorium,Industrial,S0061,40394.1
+P00007,Robust directional matrix,Furniture,S0013,4936.85
+P00008,Face-to-face encompassing Internet solution,Appliances,S0046,21236.57
+P00009,Pre-emptive 4thgeneration info-mediaries,Appliances,S0094,2803.14
+P00010,Mandatory static service-desk,Grocery,S0083,5011.05
+P00011,Open-architected uniform concept,Appliances,S0094,17031.2
+P00012,Persistent clear-thinking process improvement,Industrial,S0014,12507.95
+P00013,Public-key 4thgeneration infrastructure,Furniture,S0069,22485.82
+P00014,Reverse-engineered non-volatile protocol,Appliances,S0024,13999.4
+P00015,Assimilated attitude-oriented project,Furniture,S0010,22212.22
+P00016,Optimized client-driven Local Area Network,Industrial,S0071,4985.65
+P00017,Enterprise-wide actuating firmware,Grocery,S0070,41817.78
+P00018,Multi-tiered fresh-thinking data-warehouse,Electronics,S0097,42449.92
+P00019,Persevering fresh-thinking Graphical User Interface,Furniture,S0053,24333.49
+P00020,Virtual homogeneous focus group,Furniture,S0052,45131.9
+P00021,Versatile intangible extranet,Furniture,S0049,207.55
+P00022,Configurable methodical adapter,Appliances,S0034,46333.25
+P00023,User-friendly needs-based application,Industrial,S0059,14333.94
+P00024,Monitored directional projection,Grocery,S0094,49771.59
+P00025,Cloned zero-defect projection,Automotive,S0085,35948.57
+P00026,Balanced web-enabled algorithm,Furniture,S0025,14905.72
+P00027,Fully-configurable dedicated adapter,Electronics,S0075,36813.29
+P00028,Secured coherent encoding,Electronics,S0096,15748.88
+P00029,De-engineered methodical secured line,Electronics,S0075,23891.75
+P00030,Customizable non-volatile data-warehouse,Industrial,S0068,7955.89
+P00031,Persistent tangible extranet,Automotive,S0011,42581.99
+P00032,Visionary holistic concept,Electronics,S0077,3491.25
+P00033,Robust real-time synergy,Industrial,S0031,20248.4
+P00034,Universal bifurcated time-frame,Automotive,S0032,28988.06
+P00035,Diverse fault-tolerant benchmark,Electronics,S0080,4190.97
+P00036,Reduced 4thgeneration function,Grocery,S0075,28304.82
+P00037,Re-engineered systematic implementation,Clothing,S0034,10292.53
+P00038,Object-based transitional customer loyalty,Grocery,S0041,12010.43
+P00039,Compatible optimizing solution,Appliances,S0017,33617.34
+P00040,Self-enabling dynamic benchmark,Clothing,S0059,15877.24
+P00041,Total zero administration framework,Industrial,S0010,564.84
+P00042,Synergized radical workforce,Automotive,S0073,49805.21
+P00043,Decentralized non-volatile toolset,Electronics,S0069,10736.4
+P00044,Balanced grid-enabled monitoring,Clothing,S0017,46669.64
+P00045,Optimized stable hub,Electronics,S0032,18539.4
+P00046,Cloned motivating project,Furniture,S0057,41703.87
+P00047,Mandatory 24/7 instruction set,Grocery,S0039,30622.72
+P00048,Pre-emptive bi-directional Internet solution,Industrial,S0084,26494.14
+P00049,Multi-lateral scalable knowledgebase,Grocery,S0071,15039.0
+P00050,Triple-buffered coherent Internet solution,Grocery,S0014,46952.61
+P00051,Enhanced upward-trending model,Furniture,S0034,5859.89
+P00052,Streamlined encompassing pricing structure,Electronics,S0096,27705.86
+P00053,Public-key zero-defect matrices,Clothing,S0037,30281.01
+P00054,Persistent intermediate superstructure,Grocery,S0044,10259.51
+P00055,Reverse-engineered encompassing Graphic Interface,Grocery,S0034,25319.91
+P00056,Fully-configurable background focus group,Clothing,S0007,4705.69
+P00057,Organized dynamic system engine,Appliances,S0036,2299.93
+P00058,Persistent non-volatile pricing structure,Clothing,S0099,6627.9
+P00059,Synchronized homogeneous Graphical User Interface,Clothing,S0021,37087.42
+P00060,Assimilated modular Graphic Interface,Automotive,S0091,21441.58
+P00061,Enterprise-wide mobile data-warehouse,Electronics,S0015,3854.67
+P00062,Multi-channeled empowering Graphical User Interface,Grocery,S0020,27324.96
+P00063,Grass-roots radical standardization,Industrial,S0048,29167.23
+P00064,Grass-roots next generation access,Furniture,S0056,6459.53
+P00065,Programmable content-based artificial intelligence,Clothing,S0047,44959.18
+P00066,Front-line uniform installation,Industrial,S0006,44956.34
+P00067,Pre-emptive next generation task-force,Furniture,S0088,12551.53
+P00068,Front-line system-worthy leverage,Electronics,S0046,39027.8
+P00069,Stand-alone transitional matrix,Industrial,S0053,48694.47
+P00070,Organized 3rdgeneration array,Grocery,S0020,46295.61
+P00071,Implemented directional initiative,Furniture,S0021,48812.68
+P00072,Team-oriented dynamic function,Industrial,S0023,44082.67
+P00073,Switchable optimal hub,Electronics,S0023,36854.57
+P00074,Phased neutral moderator,Clothing,S0053,40131.53
+P00075,Monitored interactive synergy,Industrial,S0095,40556.39
+P00076,Reactive full-range help-desk,Clothing,S0021,39389.99
+P00077,Total logistical flexibility,Electronics,S0049,43621.12
+P00078,Integrated eco-centric emulation,Industrial,S0061,11199.44
+P00079,Decentralized uniform core,Industrial,S0059,17547.96
+P00080,Intuitive bottom-line synergy,Industrial,S0030,11223.89
+P00081,Public-key well-modulated solution,Grocery,S0025,19983.45
+P00082,Enterprise-wide content-based data-warehouse,Clothing,S0009,48347.77
+P00083,User-centric mission-critical focus group,Clothing,S0045,32109.94
+P00084,Up-sized optimizing task-force,Appliances,S0087,49059.37
+P00085,Progressive radical forecast,Automotive,S0043,46967.93
+P00086,Cross-platform content-based frame,Electronics,S0034,9010.53
+P00087,Focused high-level conglomeration,Clothing,S0005,5509.29
+P00088,Innovative 24/7 strategy,Appliances,S0045,36454.4
+P00089,Public-key clear-thinking focus group,Clothing,S0056,30349.82
+P00090,Balanced actuating neural-net,Automotive,S0015,19321.25
+P00091,Implemented tangible capacity,Automotive,S0025,12810.65
+P00092,Sharable web-enabled matrix,Grocery,S0056,184.39
+P00093,Customer-focused 24/7 orchestration,Industrial,S0069,34374.17
+P00094,Horizontal methodical matrices,Grocery,S0095,33564.36
+P00095,Organic global contingency,Clothing,S0056,3591.69
+P00096,Business-focused eco-centric matrices,Grocery,S0043,31195.45
+P00097,Customizable asymmetric initiative,Grocery,S0016,36015.74
+P00098,Pre-emptive asynchronous orchestration,Clothing,S0065,15533.3
+P00099,Self-enabling systemic application,Appliances,S0042,20179.78
+P00100,Distributed coherent workforce,Clothing,S0071,6451.66
+P00101,Re-contextualized exuding artificial intelligence,Appliances,S0086,47024.15
+P00102,Fully-configurable bottom-line open architecture,Grocery,S0096,45150.0
+P00103,Virtual intangible portal,Automotive,S0073,15117.4
+P00104,Right-sized regional definition,Automotive,S0001,15263.36
+P00105,Vision-oriented multi-state implementation,Furniture,S0056,39309.37
+P00106,Organized leadingedge framework,Automotive,S0084,16180.24
+P00107,Reverse-engineered interactive function,Appliances,S0057,33813.8
+P00108,Re-contextualized regional approach,Automotive,S0061,39707.4
+P00109,Seamless user-facing attitude,Industrial,S0095,8567.6
+P00110,Virtual demand-driven product,Electronics,S0037,25821.06
+P00111,Extended empowering protocol,Grocery,S0080,16825.89
+P00112,Configurable cohesive encoding,Industrial,S0097,11819.94
+P00113,Enhanced neutral archive,Clothing,S0029,40347.49
+P00114,Diverse 24hour installation,Furniture,S0004,2406.06
+P00115,Organized system-worthy policy,Appliances,S0079,42501.91
+P00116,Phased explicit alliance,Electronics,S0059,20780.61
+P00117,Focused executive strategy,Grocery,S0074,9802.32
+P00118,Horizontal tangible knowledgebase,Grocery,S0050,24769.42
+P00119,Compatible systemic emulation,Furniture,S0019,32837.29
+P00120,Fundamental zero tolerance utilization,Electronics,S0097,43035.98
+P00121,Self-enabling optimizing protocol,Electronics,S0100,21314.8
+P00122,Exclusive interactive budgetary management,Furniture,S0090,25946.09
+P00123,Quality-focused directional project,Electronics,S0072,12534.99
+P00124,Distributed encompassing circuit,Industrial,S0016,22877.45
+P00125,Compatible analyzing concept,Industrial,S0060,33412.13
+P00126,Integrated radical synergy,Automotive,S0077,15933.17
+P00127,Re-contextualized executive intranet,Industrial,S0057,30671.35
+P00128,Decentralized maximized solution,Grocery,S0065,21394.36
+P00129,Innovative tangible initiative,Automotive,S0058,44870.68
+P00130,Future-proofed motivating moratorium,Grocery,S0061,22558.48
+P00131,Proactive leadingedge artificial intelligence,Industrial,S0032,42009.16
+P00132,Right-sized 6thgeneration Internet solution,Clothing,S0099,38905.97
+P00133,User-centric fresh-thinking portal,Appliances,S0081,12038.37
+P00134,Function-based 4thgeneration array,Appliances,S0010,35705.89
+P00135,Focused systematic orchestration,Furniture,S0035,16858.79
+P00136,Reverse-engineered 3rdgeneration task-force,Automotive,S0011,7004.87
+P00137,Synergistic encompassing orchestration,Furniture,S0050,34728.1
+P00138,Balanced well-modulated system engine,Grocery,S0028,3305.02
+P00139,Enhanced methodical model,Appliances,S0043,27176.3
+P00140,Streamlined leadingedge focus group,Appliances,S0008,10421.04
+P00141,Enterprise-wide optimal Internet solution,Appliances,S0050,45251.44
+P00142,Sharable mobile array,Automotive,S0090,1074.64
+P00143,Phased grid-enabled installation,Industrial,S0074,19081.01
+P00144,Managed fresh-thinking secured line,Electronics,S0046,15000.77
+P00145,Customer-focused cohesive groupware,Appliances,S0054,26957.21
+P00146,Open-source system-worthy methodology,Grocery,S0070,40013.42
+P00147,Horizontal stable initiative,Furniture,S0063,11049.14
+P00148,Virtual neutral alliance,Appliances,S0063,1548.34
+P00149,Persevering background functionalities,Clothing,S0086,33989.18
+P00150,Function-based fresh-thinking budgetary management,Appliances,S0093,8335.73
+P00151,Visionary impactful migration,Appliances,S0017,49038.03
+P00152,Adaptive stable moratorium,Automotive,S0004,45355.75
+P00153,Persistent incremental application,Automotive,S0073,33183.69
+P00154,Ergonomic multi-state hierarchy,Electronics,S0083,21487.78
+P00155,Secured web-enabled methodology,Industrial,S0060,9168.28
+P00156,Self-enabling leadingedge task-force,Clothing,S0049,16434.9
+P00157,Business-focused demand-driven flexibility,Appliances,S0042,16941.28
+P00158,Reactive clear-thinking forecast,Appliances,S0036,37625.29
+P00159,Organic tangible matrix,Industrial,S0054,12688.35
+P00160,Decentralized 4thgeneration product,Electronics,S0061,1067.23
+P00161,Robust disintermediate strategy,Automotive,S0007,49995.4
+P00162,Diverse fault-tolerant neural-net,Clothing,S0029,32542.19
+P00163,Advanced neutral installation,Industrial,S0084,2108.88
+P00164,Cross-group directional budgetary management,Electronics,S0032,10048.1
+P00165,Persistent bottom-line project,Electronics,S0080,7703.88
+P00166,Distributed modular structure,Furniture,S0061,33506.0
+P00167,Implemented multimedia strategy,Automotive,S0028,23305.2
+P00168,Future-proofed intangible matrices,Clothing,S0099,18507.87
+P00169,Phased dynamic knowledgebase,Automotive,S0078,48190.36
+P00170,Reactive client-server info-mediaries,Grocery,S0015,38911.82
+P00171,Ergonomic radical migration,Furniture,S0040,5494.13
+P00172,User-friendly client-driven architecture,Electronics,S0040,28832.26
+P00173,Grass-roots zero administration utilization,Appliances,S0051,47079.38
+P00174,Operative global toolset,Furniture,S0010,29645.68
+P00175,Profit-focused encompassing ability,Industrial,S0081,12218.18
+P00176,Horizontal uniform framework,Grocery,S0099,15148.98
+P00177,Reverse-engineered optimal protocol,Grocery,S0077,40295.85
+P00178,Pre-emptive coherent knowledge user,Industrial,S0073,39153.5
+P00179,Public-key mission-critical hardware,Clothing,S0069,21476.06
+P00180,Managed neutral task-force,Clothing,S0009,25347.44
+P00181,Quality-focused homogeneous knowledgebase,Clothing,S0002,42493.82
+P00182,Inverse content-based standardization,Industrial,S0063,5366.39
+P00183,Front-line object-oriented info-mediaries,Clothing,S0082,44589.59
+P00184,Focused zero-defect installation,Appliances,S0091,7734.26
+P00185,Balanced foreground synergy,Furniture,S0094,26135.16
+P00186,Phased tertiary workforce,Grocery,S0035,30834.03
+P00187,Multi-tiered human-resource protocol,Automotive,S0100,24226.53
+P00188,Streamlined coherent methodology,Appliances,S0094,29664.48
+P00189,Automated clear-thinking middleware,Clothing,S0032,41553.48
+P00190,Reverse-engineered full-range attitude,Electronics,S0036,44093.4
+P00191,Organic bandwidth-monitored moderator,Furniture,S0097,23288.95
+P00192,Persevering 24/7 success,Automotive,S0086,19011.57
+P00193,Digitized incremental projection,Electronics,S0064,42562.55
+P00194,Distributed asynchronous leverage,Furniture,S0063,10684.78
+P00195,Fundamental global process improvement,Industrial,S0034,17082.91
+P00196,Team-oriented hybrid projection,Automotive,S0090,44017.36
+P00197,Configurable full-range service-desk,Automotive,S0002,25879.7
+P00198,Public-key homogeneous functionalities,Furniture,S0011,12143.67
+P00199,Self-enabling transitional task-force,Appliances,S0063,27803.29
+P00200,Pre-emptive needs-based alliance,Furniture,S0089,23857.05
+P00201,Secured asymmetric encoding,Grocery,S0063,22463.91
+P00202,Self-enabling systemic forecast,Electronics,S0012,14782.36
+P00203,Focused value-added array,Appliances,S0089,12240.93
+P00204,Optional bandwidth-monitored task-force,Grocery,S0075,18514.12
+P00205,Sharable tertiary attitude,Automotive,S0068,17253.49
+P00206,Organic composite solution,Grocery,S0071,16606.49
+P00207,Innovative 4thgeneration analyzer,Grocery,S0059,13618.73
+P00208,Inverse analyzing frame,Clothing,S0030,6120.73
+P00209,Multi-channeled holistic Internet solution,Furniture,S0041,6065.78
+P00210,Digitized dynamic moderator,Automotive,S0098,34539.16
+P00211,Open-source non-volatile software,Furniture,S0028,36956.37
+P00212,Enterprise-wide composite conglomeration,Clothing,S0093,29520.39
+P00213,Configurable reciprocal implementation,Industrial,S0068,29879.86
+P00214,Secured systemic encoding,Electronics,S0025,14882.7
+P00215,Proactive optimal circuit,Clothing,S0023,15183.15
+P00216,Focused maximized productivity,Grocery,S0069,6416.49
+P00217,Function-based logistical extranet,Electronics,S0007,27712.61
+P00218,Synchronized 24/7 website,Grocery,S0017,31929.7
+P00219,Persistent executive service-desk,Industrial,S0063,5219.12
+P00220,Quality-focused cohesive archive,Electronics,S0074,14288.53
+P00221,Organic grid-enabled parallelism,Appliances,S0057,17101.23
+P00222,Innovative scalable interface,Electronics,S0033,47059.07
+P00223,Team-oriented eco-centric knowledgebase,Appliances,S0015,41123.57
+P00224,Innovative dedicated info-mediaries,Appliances,S0063,3796.7
+P00225,Polarized bi-directional encoding,Grocery,S0088,2775.09
+P00226,Multi-tiered object-oriented help-desk,Furniture,S0073,47461.37
+P00227,Re-engineered explicit standardization,Electronics,S0032,6010.73
+P00228,Implemented 3rdgeneration protocol,Industrial,S0054,30355.25
+P00229,Object-based even-keeled access,Industrial,S0080,11361.79
+P00230,Re-contextualized systemic time-frame,Automotive,S0049,22580.67
+P00231,User-friendly actuating portal,Appliances,S0039,43022.32
+P00232,User-friendly modular forecast,Appliances,S0040,28474.61
+P00233,Vision-oriented discrete portal,Electronics,S0079,48009.43
+P00234,Multi-channeled directional productivity,Electronics,S0098,10468.62
+P00235,Ergonomic regional extranet,Furniture,S0034,33055.36
+P00236,Synergistic web-enabled success,Furniture,S0031,8773.3
+P00237,Visionary stable software,Electronics,S0021,233.52
+P00238,Devolved responsive attitude,Appliances,S0089,29731.18
+P00239,Self-enabling secondary analyzer,Clothing,S0005,11650.66
+P00240,Integrated zero tolerance intranet,Grocery,S0037,35179.08
+P00241,Automated optimal hierarchy,Appliances,S0010,34400.51
+P00242,Upgradable clear-thinking array,Clothing,S0081,29530.5
+P00243,Implemented fresh-thinking synergy,Industrial,S0026,21314.43
+P00244,Operative context-sensitive customer loyalty,Automotive,S0029,32416.97
+P00245,De-engineered zero tolerance moratorium,Clothing,S0019,3663.35
+P00246,Multi-lateral multi-tasking middleware,Furniture,S0040,29792.7
+P00247,Future-proofed composite extranet,Industrial,S0073,46067.51
+P00248,Polarized explicit synergy,Appliances,S0016,23488.03
+P00249,Mandatory bifurcated Local Area Network,Clothing,S0090,20185.18
+P00250,Compatible client-server system engine,Clothing,S0065,27045.08
+P00251,Face-to-face systematic success,Appliances,S0011,29942.03
+P00252,Synergistic hybrid website,Appliances,S0095,16183.85
+P00253,Realigned high-level array,Clothing,S0004,4657.21
+P00254,Object-based 24/7 firmware,Grocery,S0074,29397.43
+P00255,Public-key bottom-line knowledgebase,Electronics,S0098,33646.85
+P00256,Multi-layered systematic synergy,Clothing,S0074,2107.56
+P00257,Synergistic empowering paradigm,Industrial,S0023,23577.99
+P00258,Multi-tiered scalable hub,Grocery,S0057,45812.03
+P00259,Customer-focused systematic emulation,Furniture,S0075,21850.66
+P00260,Phased 4thgeneration process improvement,Industrial,S0063,48455.86
+P00261,Realigned fresh-thinking pricing structure,Appliances,S0045,20476.57
+P00262,Face-to-face secondary architecture,Clothing,S0086,5319.53
+P00263,Sharable maximized standardization,Furniture,S0043,20641.09
+P00264,Innovative solution-oriented installation,Appliances,S0037,33162.92
+P00265,Customizable client-driven analyzer,Appliances,S0098,27549.82
+P00266,Automated exuding methodology,Appliances,S0012,15794.41
+P00267,Customizable bandwidth-monitored encoding,Clothing,S0015,48512.22
+P00268,Public-key client-driven info-mediaries,Appliances,S0066,41263.87
+P00269,Persevering holistic secured line,Electronics,S0085,43481.44
+P00270,User-friendly tangible moratorium,Appliances,S0053,2804.78
+P00271,Operative optimizing synergy,Automotive,S0047,31169.43
+P00272,Upgradable coherent instruction set,Appliances,S0081,22157.84
+P00273,Streamlined bandwidth-monitored matrix,Electronics,S0027,13426.11
+P00274,Seamless incremental focus group,Furniture,S0037,21961.99
+P00275,Automated system-worthy hub,Grocery,S0063,6159.16
+P00276,Extended leadingedge intranet,Grocery,S0078,39985.76
+P00277,Front-line high-level attitude,Grocery,S0021,15606.43
+P00278,Synergized holistic moratorium,Electronics,S0071,20458.74
+P00279,Stand-alone heuristic approach,Furniture,S0015,23126.25
+P00280,Object-based even-keeled core,Electronics,S0083,41623.94
+P00281,Decentralized logistical array,Appliances,S0092,14663.89
+P00282,Switchable didactic project,Grocery,S0035,20832.97
+P00283,Sharable radical adapter,Appliances,S0061,12262.17
+P00284,Business-focused zero tolerance groupware,Automotive,S0019,19240.94
+P00285,Fully-configurable clear-thinking toolset,Automotive,S0066,37340.0
+P00286,Re-contextualized demand-driven architecture,Furniture,S0009,13884.75
+P00287,Virtual neutral database,Industrial,S0054,17059.77
+P00288,Reverse-engineered didactic emulation,Industrial,S0065,13431.92
+P00289,Managed zero-defect circuit,Electronics,S0037,36329.94
+P00290,Right-sized 24hour focus group,Industrial,S0076,29038.18
+P00291,Digitized clear-thinking moratorium,Grocery,S0063,43276.5
+P00292,Function-based context-sensitive budgetary management,Appliances,S0069,24268.64
+P00293,Switchable 4thgeneration capacity,Clothing,S0071,38167.35
+P00294,Advanced heuristic utilization,Appliances,S0059,46649.33
+P00295,Front-line optimizing Graphic Interface,Industrial,S0025,49040.65
+P00296,Ameliorated context-sensitive firmware,Furniture,S0074,19210.25
+P00297,Business-focused clear-thinking support,Industrial,S0100,20597.68
+P00298,Operative multi-tasking budgetary management,Clothing,S0096,23701.51
+P00299,User-friendly asymmetric leverage,Industrial,S0049,19365.33
+P00300,Organized zero-defect hierarchy,Grocery,S0084,49042.83
+P00301,Profound optimizing benchmark,Appliances,S0005,6399.69
+P00302,Organized motivating definition,Automotive,S0043,43498.05
+P00303,Seamless 6thgeneration superstructure,Industrial,S0057,5075.61
+P00304,Switchable multi-state framework,Appliances,S0002,36149.95
+P00305,Persevering secondary algorithm,Appliances,S0084,48500.84
+P00306,Centralized mission-critical initiative,Electronics,S0061,39098.11
+P00307,Optimized systemic benchmark,Clothing,S0044,31200.64
+P00308,Pre-emptive transitional intranet,Appliances,S0084,4107.73
+P00309,Compatible attitude-oriented Graphic Interface,Clothing,S0087,42981.17
+P00310,Robust client-server architecture,Appliances,S0041,31377.28
+P00311,De-engineered even-keeled process improvement,Industrial,S0063,43631.91
+P00312,Sharable optimal neural-net,Electronics,S0080,3514.2
+P00313,Universal fresh-thinking implementation,Grocery,S0088,46054.36
+P00314,Right-sized multi-tasking frame,Furniture,S0096,4609.93
+P00315,Persevering motivating portal,Electronics,S0098,31724.02
+P00316,Optional bandwidth-monitored utilization,Industrial,S0013,22239.56
+P00317,Total bifurcated projection,Grocery,S0039,45180.86
+P00318,Streamlined zero administration neural-net,Electronics,S0042,39827.56
+P00319,Up-sized didactic Internet solution,Clothing,S0046,18804.57
+P00320,Organized discrete installation,Furniture,S0032,26605.2
+P00321,Mandatory logistical initiative,Automotive,S0088,39646.72
+P00322,Operative upward-trending attitude,Furniture,S0023,4040.52
+P00323,Intuitive interactive functionalities,Industrial,S0049,31023.55
+P00324,Synchronized eco-centric hub,Furniture,S0064,45650.17
+P00325,Distributed systemic leverage,Furniture,S0030,23111.38
+P00326,Cloned background artificial intelligence,Clothing,S0059,12840.8
+P00327,Cross-group intermediate attitude,Electronics,S0060,45070.35
+P00328,User-friendly user-facing hub,Grocery,S0070,7982.98
+P00329,De-engineered next generation approach,Appliances,S0045,49383.82
+P00330,Reverse-engineered next generation open architecture,Clothing,S0082,48105.25
+P00331,Managed static capability,Grocery,S0033,22896.11
+P00332,Open-source heuristic secured line,Clothing,S0026,49968.74
+P00333,Versatile interactive success,Industrial,S0062,5422.0
+P00334,Business-focused executive policy,Appliances,S0074,18012.06
+P00335,Integrated heuristic benchmark,Clothing,S0090,14832.01
+P00336,Re-engineered motivating data-warehouse,Industrial,S0085,19850.71
+P00337,Distributed stable matrices,Electronics,S0073,43266.86
+P00338,Face-to-face bi-directional hardware,Industrial,S0096,48682.78
+P00339,Realigned holistic budgetary management,Automotive,S0096,24886.69
+P00340,Virtual even-keeled orchestration,Clothing,S0100,39963.12
+P00341,Face-to-face interactive open architecture,Automotive,S0046,11028.33
+P00342,Visionary regional pricing structure,Furniture,S0080,12606.28
+P00343,Synergistic secondary open architecture,Industrial,S0093,38396.79
+P00344,Assimilated real-time protocol,Grocery,S0018,31449.58
+P00345,Team-oriented encompassing algorithm,Grocery,S0083,2067.19
+P00346,Enterprise-wide encompassing standardization,Industrial,S0057,1764.89
+P00347,Virtual fault-tolerant Graphical User Interface,Clothing,S0094,6657.45
+P00348,Monitored 24hour contingency,Clothing,S0042,37399.3
+P00349,Digitized non-volatile protocol,Furniture,S0026,6694.77
+P00350,Open-architected asymmetric circuit,Automotive,S0047,26589.53
+P00351,User-centric scalable algorithm,Clothing,S0022,12922.81
+P00352,Cross-group value-added moderator,Industrial,S0062,48372.47
+P00353,Extended homogeneous instruction set,Clothing,S0096,43532.81
+P00354,Persevering global complexity,Industrial,S0015,23469.74
+P00355,Multi-layered fault-tolerant success,Electronics,S0019,37732.16
+P00356,Inverse zero-defect open system,Furniture,S0087,36238.41
+P00357,Right-sized attitude-oriented application,Appliances,S0072,18352.17
+P00358,Distributed cohesive system engine,Industrial,S0051,794.54
+P00359,Secured actuating service-desk,Automotive,S0016,22793.82
+P00360,Configurable encompassing intranet,Grocery,S0096,33649.81
+P00361,Switchable interactive matrix,Automotive,S0049,41138.62
+P00362,Robust leadingedge instruction set,Clothing,S0014,33774.34
+P00363,Future-proofed didactic system engine,Appliances,S0004,31015.39
+P00364,Profound bifurcated hardware,Automotive,S0042,45771.27
+P00365,Optional bifurcated forecast,Furniture,S0083,3254.53
+P00366,Synergistic systematic parallelism,Industrial,S0060,45478.44
+P00367,Pre-emptive multi-tasking secured line,Clothing,S0084,20473.96
+P00368,Integrated 6thgeneration definition,Furniture,S0006,47318.45
+P00369,Object-based radical approach,Clothing,S0064,5894.41
+P00370,Adaptive demand-driven framework,Furniture,S0069,6869.64
+P00371,Extended zero administration challenge,Appliances,S0048,33557.26
+P00372,Virtual eco-centric frame,Grocery,S0090,47304.11
+P00373,Inverse bottom-line ability,Appliances,S0076,37139.22
+P00374,Proactive value-added Internet solution,Furniture,S0054,32780.6
+P00375,Enhanced clear-thinking implementation,Industrial,S0063,30821.05
+P00376,Public-key tertiary emulation,Clothing,S0005,34545.01
+P00377,Profit-focused next generation secured line,Furniture,S0057,22290.32
+P00378,Multi-channeled asynchronous infrastructure,Furniture,S0047,5057.8
+P00379,User-centric 6thgeneration Internet solution,Grocery,S0048,27268.85
+P00380,Ameliorated logistical archive,Grocery,S0046,3121.45
+P00381,Intuitive object-oriented interface,Clothing,S0025,48413.52
+P00382,Re-engineered impactful strategy,Industrial,S0059,4674.5
+P00383,Sharable intangible frame,Furniture,S0083,32010.7
+P00384,Customizable impactful adapter,Electronics,S0007,39361.05
+P00385,Inverse composite website,Furniture,S0017,39370.21
+P00386,Secured logistical solution,Furniture,S0009,41507.91
+P00387,Multi-lateral background Internet solution,Automotive,S0027,29360.52
+P00388,Customer-focused dynamic Internet solution,Industrial,S0030,16495.12
+P00389,Reverse-engineered impactful moderator,Furniture,S0077,241.49
+P00390,Configurable hybrid function,Industrial,S0019,49377.61
+P00391,User-friendly global definition,Automotive,S0033,39945.84
+P00392,Managed zero-defect concept,Electronics,S0085,43335.75
+P00393,Compatible multimedia productivity,Furniture,S0002,17976.29
+P00394,Customizable multi-tasking migration,Industrial,S0031,29483.76
+P00395,Ergonomic zero-defect hardware,Electronics,S0023,13341.84
+P00396,Monitored upward-trending project,Furniture,S0095,21105.93
+P00397,Digitized disintermediate benchmark,Electronics,S0096,3271.55
+P00398,Digitized eco-centric customer loyalty,Appliances,S0100,18165.74
+P00399,Enhanced real-time collaboration,Automotive,S0014,22655.07
+P00400,Virtual well-modulated projection,Furniture,S0079,2263.92
+P00401,Compatible context-sensitive throughput,Industrial,S0085,26120.42
+P00402,Self-enabling modular Local Area Network,Appliances,S0083,48204.91
+P00403,Versatile non-volatile task-force,Electronics,S0062,42380.2
+P00404,Reduced local software,Appliances,S0088,5487.3
+P00405,Re-contextualized secondary productivity,Grocery,S0057,3767.19
+P00406,Secured fresh-thinking product,Electronics,S0042,30454.04
+P00407,Intuitive coherent intranet,Electronics,S0017,13823.3
+P00408,Cloned methodical intranet,Grocery,S0075,27462.99
+P00409,Self-enabling exuding utilization,Clothing,S0049,49731.93
+P00410,Grass-roots optimizing approach,Automotive,S0038,22740.4
+P00411,Multi-channeled motivating archive,Automotive,S0056,5049.01
+P00412,Integrated maximized knowledge user,Grocery,S0015,42654.36
+P00413,Automated analyzing hub,Grocery,S0099,27611.63
+P00414,Horizontal asynchronous project,Industrial,S0028,21560.49
+P00415,Cross-group reciprocal policy,Furniture,S0053,17012.69
+P00416,Profit-focused human-resource Local Area Network,Appliances,S0052,20857.88
+P00417,Reduced neutral utilization,Electronics,S0041,21395.52
+P00418,User-centric 6thgeneration knowledge user,Grocery,S0033,18777.62
+P00419,Re-engineered solution-oriented core,Furniture,S0088,46156.95
+P00420,Inverse real-time leverage,Electronics,S0012,41605.42
+P00421,Profit-focused coherent approach,Electronics,S0056,4918.57
+P00422,Organized bi-directional workforce,Grocery,S0048,40607.29
+P00423,Mandatory transitional artificial intelligence,Automotive,S0008,29364.61
+P00424,Profit-focused secondary conglomeration,Automotive,S0072,16549.33
+P00425,Balanced dynamic strategy,Electronics,S0053,17744.54
+P00426,Organic leadingedge moderator,Grocery,S0097,21204.55
+P00427,Programmable reciprocal complexity,Grocery,S0007,48423.09
+P00428,Multi-lateral holistic forecast,Automotive,S0040,17647.14
+P00429,Networked incremental time-frame,Automotive,S0065,10715.67
+P00430,Mandatory systematic policy,Grocery,S0062,11289.82
+P00431,Business-focused responsive project,Electronics,S0045,42284.13
+P00432,Managed asymmetric groupware,Clothing,S0015,38154.02
+P00433,Cross-platform next generation service-desk,Automotive,S0029,40380.35
+P00434,Networked executive extranet,Industrial,S0072,48729.88
+P00435,Up-sized stable portal,Industrial,S0080,30717.31
+P00436,Distributed full-range artificial intelligence,Grocery,S0072,1410.07
+P00437,Reduced stable circuit,Grocery,S0089,13445.64
+P00438,Monitored fault-tolerant projection,Furniture,S0035,35164.67
+P00439,Total stable infrastructure,Clothing,S0044,17616.07
+P00440,De-engineered radical strategy,Furniture,S0019,28359.42
+P00441,Configurable fault-tolerant open architecture,Appliances,S0009,7179.55
+P00442,Multi-tiered secondary utilization,Grocery,S0004,4678.71
+P00443,Managed clear-thinking secured line,Automotive,S0028,18872.1
+P00444,Total user-facing software,Appliances,S0044,7954.72
+P00445,Progressive background project,Clothing,S0093,16286.71
+P00446,Synchronized interactive migration,Automotive,S0077,4339.36
+P00447,Multi-lateral 3rdgeneration hierarchy,Electronics,S0020,7954.75
+P00448,Integrated contextually-based data-warehouse,Automotive,S0007,33731.04
+P00449,Mandatory zero administration matrix,Clothing,S0057,33130.74
+P00450,Ergonomic directional challenge,Appliances,S0078,22158.0
+P00451,Distributed asynchronous frame,Clothing,S0028,37771.66
+P00452,Cross-platform motivating throughput,Electronics,S0045,21552.69
+P00453,Quality-focused user-facing moderator,Clothing,S0087,33956.46
+P00454,Automated stable Graphical User Interface,Appliances,S0068,33389.91
+P00455,Visionary regional capacity,Electronics,S0029,19823.64
+P00456,Right-sized homogeneous collaboration,Automotive,S0008,483.59
+P00457,Diverse contextually-based solution,Clothing,S0028,38390.74
+P00458,Visionary regional workforce,Industrial,S0033,14543.41
+P00459,Down-sized uniform intranet,Electronics,S0001,24919.53
+P00460,Balanced incremental hierarchy,Appliances,S0023,6546.37
+P00461,Synergistic uniform encoding,Automotive,S0091,11582.52
+P00462,Organic reciprocal forecast,Automotive,S0086,40329.39
+P00463,Versatile value-added toolset,Electronics,S0051,43102.04
+P00464,Organized discrete monitoring,Electronics,S0056,1035.2
+P00465,Front-line fault-tolerant workforce,Electronics,S0041,28830.38
+P00466,Phased content-based hub,Automotive,S0052,35504.0
+P00467,Synergistic object-oriented intranet,Appliances,S0038,5847.15
+P00468,Persistent zero administration forecast,Electronics,S0042,8676.47
+P00469,Vision-oriented homogeneous middleware,Automotive,S0059,41618.09
+P00470,Progressive intangible complexity,Clothing,S0012,21891.92
+P00471,Exclusive real-time challenge,Electronics,S0032,21840.26
+P00472,Function-based actuating project,Appliances,S0068,4024.49
+P00473,Polarized holistic neural-net,Industrial,S0040,37315.66
+P00474,Customer-focused transitional model,Furniture,S0043,38977.98
+P00475,Decentralized executive artificial intelligence,Electronics,S0066,31697.91
+P00476,Virtual cohesive flexibility,Automotive,S0066,9775.79
+P00477,Organized multimedia circuit,Industrial,S0045,17619.88
+P00478,Optional background definition,Industrial,S0083,40770.35
+P00479,Organized grid-enabled algorithm,Furniture,S0014,7407.57
+P00480,Operative actuating infrastructure,Furniture,S0023,30159.71
+P00481,Profit-focused holistic encoding,Industrial,S0098,32809.9
+P00482,Networked attitude-oriented hub,Furniture,S0099,31434.64
+P00483,Face-to-face 4thgeneration functionalities,Appliances,S0097,28230.4
+P00484,Cross-platform transitional projection,Automotive,S0058,34088.56
+P00485,Managed client-server challenge,Automotive,S0083,31801.39
+P00486,Automated executive leverage,Automotive,S0042,43225.92
+P00487,Total client-driven task-force,Grocery,S0041,7632.77
+P00488,Triple-buffered methodical knowledge user,Electronics,S0061,22166.18
+P00489,Seamless 24hour artificial intelligence,Clothing,S0036,29611.85
+P00490,Ameliorated eco-centric data-warehouse,Clothing,S0065,3802.11
+P00491,Distributed neutral superstructure,Appliances,S0058,1976.6
+P00492,Robust multi-tasking interface,Clothing,S0037,3928.88
+P00493,Customizable zero-defect forecast,Industrial,S0012,30788.92
+P00494,Front-line exuding capability,Automotive,S0050,23189.31
+P00495,Business-focused disintermediate instruction set,Automotive,S0095,44804.25
+P00496,Sharable regional knowledgebase,Appliances,S0074,32626.69
+P00497,Cloned bifurcated methodology,Clothing,S0078,23833.89
+P00498,Right-sized national adapter,Furniture,S0008,22581.1
+P00499,Self-enabling multimedia orchestration,Industrial,S0044,49121.04
+P00500,Front-line transitional circuit,Electronics,S0065,32341.74
+P00501,Implemented interactive ability,Electronics,S0032,35410.32
+P00502,Seamless heuristic encoding,Appliances,S0068,26185.13
+P00503,Re-engineered intangible contingency,Furniture,S0047,18705.31
+P00504,Synchronized static artificial intelligence,Clothing,S0050,20497.59
+P00505,Progressive high-level architecture,Clothing,S0087,29934.5
+P00506,Progressive needs-based middleware,Industrial,S0081,32400.54
+P00507,Profit-focused neutral adapter,Electronics,S0043,4815.85
+P00508,Networked methodical analyzer,Grocery,S0050,14278.93
+P00509,Sharable human-resource hub,Grocery,S0085,48224.06
+P00510,Function-based value-added adapter,Automotive,S0020,16734.77
+P00511,Multi-channeled zero tolerance architecture,Automotive,S0085,7157.28
+P00512,Monitored disintermediate superstructure,Clothing,S0040,48388.06
+P00513,Switchable responsive benchmark,Grocery,S0085,19658.7
+P00514,Visionary optimal support,Automotive,S0091,46906.31
+P00515,Versatile full-range challenge,Clothing,S0072,18896.3
+P00516,Balanced heuristic moratorium,Industrial,S0043,40677.92
+P00517,Mandatory secondary conglomeration,Grocery,S0090,41465.05
+P00518,Vision-oriented systemic Local Area Network,Grocery,S0088,45631.15
+P00519,Total mission-critical product,Electronics,S0083,33555.76
+P00520,Enterprise-wide client-driven architecture,Automotive,S0047,1009.7
+P00521,Universal zero-defect knowledgebase,Clothing,S0024,47563.35
+P00522,Automated explicit customer loyalty,Clothing,S0099,24364.92
+P00523,Balanced dedicated analyzer,Furniture,S0018,7831.76
+P00524,Intuitive fault-tolerant migration,Clothing,S0013,25433.72
+P00525,Object-based needs-based leverage,Automotive,S0095,44195.74
+P00526,Function-based 5thgeneration system engine,Electronics,S0085,16904.54
+P00527,Stand-alone content-based forecast,Industrial,S0080,6639.35
+P00528,Multi-channeled zero-defect application,Appliances,S0020,8196.14
+P00529,Streamlined full-range flexibility,Industrial,S0089,38577.78
+P00530,Decentralized holistic Internet solution,Industrial,S0022,36087.03
+P00531,Open-architected value-added intranet,Electronics,S0053,18278.54
+P00532,Networked global contingency,Grocery,S0031,48482.47
+P00533,Proactive system-worthy methodology,Automotive,S0037,37644.32
+P00534,Multi-layered multi-state flexibility,Industrial,S0058,11776.75
+P00535,Configurable upward-trending interface,Furniture,S0040,48283.27
+P00536,Configurable intermediate portal,Industrial,S0061,45208.32
+P00537,Enterprise-wide needs-based frame,Furniture,S0048,33947.51
+P00538,Inverse bi-directional artificial intelligence,Automotive,S0057,23137.83
+P00539,Inverse stable frame,Clothing,S0100,19155.43
+P00540,Integrated local portal,Automotive,S0054,48316.78
+P00541,Universal interactive concept,Industrial,S0026,40082.84
+P00542,Team-oriented leadingedge hardware,Furniture,S0033,2703.77
+P00543,Organized 6thgeneration superstructure,Appliances,S0048,27771.58
+P00544,Multi-channeled reciprocal Internet solution,Electronics,S0092,42310.02
+P00545,Grass-roots scalable utilization,Industrial,S0016,14324.64
+P00546,Centralized asynchronous secured line,Industrial,S0021,13712.29
+P00547,Sharable impactful hierarchy,Automotive,S0019,41569.23
+P00548,Profound value-added service-desk,Electronics,S0029,40853.49
+P00549,Diverse 4thgeneration circuit,Clothing,S0004,20803.36
+P00550,Robust systematic toolset,Appliances,S0065,18760.68
+P00551,Organic 5thgeneration capacity,Appliances,S0011,18808.14
+P00552,Cloned disintermediate time-frame,Electronics,S0041,46548.21
+P00553,Stand-alone high-level hierarchy,Industrial,S0092,32533.04
+P00554,Networked non-volatile alliance,Industrial,S0019,6966.22
+P00555,Robust coherent service-desk,Clothing,S0061,34833.99
+P00556,Organized holistic hub,Furniture,S0098,35306.26
+P00557,Organic well-modulated archive,Appliances,S0079,362.03
+P00558,Re-engineered client-driven moderator,Electronics,S0003,12870.6
+P00559,Multi-lateral hybrid functionalities,Industrial,S0020,27485.33
+P00560,Streamlined even-keeled encryption,Grocery,S0078,26435.8
+P00561,Customizable 4thgeneration support,Electronics,S0100,14476.27
+P00562,Enterprise-wide modular model,Clothing,S0016,2482.7
+P00563,Networked next generation capability,Appliances,S0082,39715.57
+P00564,Fundamental zero-defect firmware,Appliances,S0009,5631.81
+P00565,Triple-buffered local data-warehouse,Appliances,S0077,26849.08
+P00566,Seamless executive solution,Grocery,S0066,28794.87
+P00567,Pre-emptive dedicated capability,Grocery,S0019,14634.47
+P00568,Devolved asynchronous knowledge user,Electronics,S0079,17705.52
+P00569,Enhanced transitional intranet,Automotive,S0054,9446.96
+P00570,Cross-group systemic functionalities,Grocery,S0011,26221.88
+P00571,Synchronized grid-enabled strategy,Clothing,S0009,47674.84
+P00572,Cloned neutral moratorium,Automotive,S0065,39341.98
+P00573,Implemented exuding complexity,Automotive,S0071,1114.68
+P00574,Universal tertiary standardization,Industrial,S0061,2272.37
+P00575,Sharable context-sensitive utilization,Appliances,S0048,12757.15
+P00576,Multi-lateral multimedia definition,Electronics,S0046,39447.15
+P00577,Decentralized dedicated utilization,Clothing,S0031,36673.76
+P00578,Devolved disintermediate utilization,Grocery,S0014,38597.92
+P00579,Proactive 4thgeneration hierarchy,Grocery,S0097,16692.68
+P00580,Reactive object-oriented hub,Electronics,S0046,27346.09
+P00581,Persistent neutral capacity,Industrial,S0083,8836.95
+P00582,Seamless background architecture,Industrial,S0088,23284.68
+P00583,Integrated hybrid structure,Grocery,S0062,31623.62
+P00584,Up-sized mission-critical moderator,Industrial,S0018,3248.72
+P00585,Open-source zero administration installation,Industrial,S0059,1945.49
+P00586,Re-engineered asynchronous capacity,Furniture,S0006,39576.35
+P00587,Intuitive secondary archive,Electronics,S0041,46675.21
+P00588,Organized maximized software,Automotive,S0051,49457.22
+P00589,Programmable grid-enabled capacity,Automotive,S0061,12740.36
+P00590,Vision-oriented neutral productivity,Industrial,S0083,9636.06
+P00591,Reverse-engineered contextually-based throughput,Clothing,S0100,2485.42
+P00592,De-engineered intermediate middleware,Grocery,S0043,13733.51
+P00593,Centralized bottom-line model,Industrial,S0048,21903.87
+P00594,Distributed exuding concept,Appliances,S0096,22042.86
+P00595,Diverse fresh-thinking strategy,Appliances,S0044,48688.81
+P00596,Face-to-face grid-enabled model,Appliances,S0089,24926.42
+P00597,Horizontal attitude-oriented extranet,Industrial,S0067,13409.36
+P00598,Exclusive scalable neural-net,Electronics,S0094,21282.53
+P00599,Grass-roots clear-thinking product,Appliances,S0078,49755.4
+P00600,Innovative reciprocal monitoring,Furniture,S0070,14758.94
+P00601,Cross-group motivating project,Electronics,S0011,16463.2
+P00602,Down-sized optimizing paradigm,Clothing,S0040,22351.2
+P00603,Distributed composite protocol,Grocery,S0055,8415.57
+P00604,Secured uniform portal,Appliances,S0045,22411.77
+P00605,Mandatory non-volatile analyzer,Grocery,S0046,30781.09
+P00606,Assimilated attitude-oriented analyzer,Appliances,S0036,32009.52
+P00607,Stand-alone zero administration orchestration,Industrial,S0008,3844.55
+P00608,Fundamental solution-oriented database,Grocery,S0052,18229.23
+P00609,Visionary object-oriented instruction set,Industrial,S0096,34002.59
+P00610,Secured scalable algorithm,Electronics,S0019,42448.6
+P00611,Proactive responsive moratorium,Grocery,S0057,1836.47
+P00612,Implemented secondary framework,Electronics,S0031,38947.92
+P00613,Polarized dynamic workforce,Clothing,S0047,19204.43
+P00614,Synergized impactful framework,Automotive,S0005,30294.23
+P00615,Persevering asynchronous solution,Grocery,S0058,47446.29
+P00616,Centralized cohesive intranet,Clothing,S0057,38177.92
+P00617,Operative mission-critical Local Area Network,Automotive,S0018,26520.05
+P00618,Expanded global portal,Appliances,S0041,32513.08
+P00619,Digitized foreground structure,Furniture,S0015,1393.08
+P00620,Intuitive upward-trending hardware,Furniture,S0064,25935.49
+P00621,Open-architected clear-thinking task-force,Automotive,S0016,13162.66
+P00622,Multi-layered multimedia open architecture,Clothing,S0091,22369.03
+P00623,Customer-focused foreground encoding,Automotive,S0037,34729.63
+P00624,Persistent bottom-line flexibility,Appliances,S0026,6219.61
+P00625,Organized dynamic circuit,Industrial,S0010,22656.93
+P00626,Cross-platform actuating frame,Grocery,S0057,49863.39
+P00627,Networked reciprocal instruction set,Industrial,S0088,48381.31
+P00628,Fully-configurable cohesive Graphic Interface,Clothing,S0086,17436.52
+P00629,Re-engineered uniform functionalities,Electronics,S0071,27154.35
+P00630,Ergonomic well-modulated complexity,Clothing,S0021,35619.27
+P00631,Proactive multimedia Local Area Network,Grocery,S0082,8787.14
+P00632,Proactive fault-tolerant methodology,Clothing,S0066,11289.66
+P00633,Ameliorated background infrastructure,Furniture,S0018,11913.14
+P00634,Profit-focused logistical encoding,Appliances,S0004,18108.74
+P00635,Extended optimal help-desk,Automotive,S0048,23423.55
+P00636,Business-focused actuating forecast,Automotive,S0017,30636.22
+P00637,Proactive radical projection,Electronics,S0009,15533.61
+P00638,Synergistic methodical forecast,Grocery,S0093,23985.39
+P00639,Public-key 24/7 benchmark,Appliances,S0099,20530.73
+P00640,Optional client-driven firmware,Automotive,S0010,6353.81
+P00641,Upgradable high-level task-force,Clothing,S0083,3800.83
+P00642,Open-architected high-level analyzer,Appliances,S0088,25916.26
+P00643,Open-architected actuating open system,Furniture,S0100,27610.04
+P00644,Realigned content-based hierarchy,Automotive,S0024,38412.3
+P00645,Reactive executive archive,Furniture,S0056,25192.9
+P00646,Networked motivating knowledge user,Industrial,S0008,41586.4
+P00647,Virtual neutral focus group,Automotive,S0020,15275.81
+P00648,Secured systemic pricing structure,Furniture,S0042,46743.42
+P00649,Decentralized clear-thinking attitude,Furniture,S0045,47379.41
+P00650,Object-based holistic utilization,Automotive,S0037,42312.09
+P00651,Mandatory next generation hierarchy,Clothing,S0026,31789.35
+P00652,Versatile client-server customer loyalty,Automotive,S0036,6346.0
+P00653,Robust multimedia initiative,Clothing,S0079,26720.55
+P00654,Profit-focused 6thgeneration analyzer,Automotive,S0083,8514.93
+P00655,Automated client-driven structure,Automotive,S0020,8642.91
+P00656,Managed methodical model,Automotive,S0093,45109.84
+P00657,Persevering coherent portal,Clothing,S0073,2155.6
+P00658,Profound client-driven Graphic Interface,Industrial,S0004,4153.02
+P00659,Seamless foreground complexity,Grocery,S0099,28880.88
+P00660,Object-based reciprocal support,Grocery,S0027,38371.25
+P00661,Innovative optimizing Graphical User Interface,Appliances,S0080,31985.66
+P00662,Profit-focused multimedia monitoring,Appliances,S0081,27324.32
+P00663,Pre-emptive tertiary open system,Grocery,S0039,24198.95
+P00664,Innovative methodical adapter,Industrial,S0088,20364.02
+P00665,Multi-layered full-range service-desk,Appliances,S0010,34461.82
+P00666,Customizable intangible paradigm,Furniture,S0057,20839.53
+P00667,Integrated uniform solution,Appliances,S0027,17075.61
+P00668,Self-enabling 4thgeneration policy,Furniture,S0041,43088.11
+P00669,Phased empowering projection,Clothing,S0094,49402.37
+P00670,Vision-oriented optimal orchestration,Clothing,S0052,6625.23
+P00671,Focused uniform application,Clothing,S0066,28126.4
+P00672,Reduced mission-critical concept,Clothing,S0031,23376.98
+P00673,Progressive responsive success,Clothing,S0058,12471.15
+P00674,Secured zero-defect implementation,Electronics,S0007,14581.58
+P00675,Digitized systemic encryption,Appliances,S0079,20964.92
+P00676,Automated object-oriented standardization,Industrial,S0021,40692.54
+P00677,Customizable content-based adapter,Automotive,S0093,15704.47
+P00678,Organic foreground instruction set,Industrial,S0021,24963.45
+P00679,Distributed incremental solution,Automotive,S0060,24988.11
+P00680,Expanded incremental middleware,Clothing,S0064,1256.5
+P00681,Vision-oriented reciprocal leverage,Appliances,S0065,22915.81
+P00682,User-centric upward-trending approach,Furniture,S0028,29208.87
+P00683,Triple-buffered client-driven model,Electronics,S0007,14139.68
+P00684,Expanded next generation Graphic Interface,Automotive,S0084,33658.78
+P00685,Switchable mission-critical moderator,Clothing,S0069,508.05
+P00686,Multi-tiered foreground conglomeration,Electronics,S0056,6783.35
+P00687,Persevering national Graphical User Interface,Clothing,S0094,18352.3
+P00688,Quality-focused heuristic service-desk,Appliances,S0047,2357.6
+P00689,Visionary uniform software,Electronics,S0073,28134.66
+P00690,Stand-alone system-worthy firmware,Clothing,S0071,14501.22
+P00691,Seamless mission-critical core,Appliances,S0065,22572.68
+P00692,Fully-configurable even-keeled open architecture,Automotive,S0036,41283.03
+P00693,Innovative directional framework,Automotive,S0088,30591.05
+P00694,Visionary executive strategy,Furniture,S0013,19755.8
+P00695,Expanded system-worthy strategy,Industrial,S0044,27935.81
+P00696,Pre-emptive foreground matrices,Clothing,S0097,7298.94
+P00697,Monitored next generation utilization,Automotive,S0066,20129.22
+P00698,Up-sized even-keeled forecast,Electronics,S0006,2041.81
+P00699,Decentralized object-oriented service-desk,Grocery,S0043,40217.9
+P00700,Quality-focused homogeneous infrastructure,Automotive,S0059,7532.14
+P00701,Monitored zero administration website,Automotive,S0018,16465.5
+P00702,Digitized explicit analyzer,Automotive,S0041,8208.85
+P00703,Horizontal transitional artificial intelligence,Automotive,S0095,42145.84
+P00704,Monitored leadingedge projection,Automotive,S0044,25415.02
+P00705,Function-based value-added matrices,Automotive,S0069,24543.35
+P00706,Extended dedicated monitoring,Automotive,S0039,23797.14
+P00707,Future-proofed next generation standardization,Electronics,S0048,16628.86
+P00708,Future-proofed client-driven benchmark,Electronics,S0054,29226.74
+P00709,Seamless user-facing parallelism,Industrial,S0093,43617.75
+P00710,Front-line dynamic application,Grocery,S0004,29885.79
+P00711,Synchronized multi-tasking definition,Clothing,S0084,39166.91
+P00712,Sharable discrete application,Industrial,S0075,28923.96
+P00713,Cross-platform incremental groupware,Grocery,S0007,29217.81
+P00714,Universal methodical attitude,Furniture,S0068,31488.36
+P00715,Synergized zero administration challenge,Automotive,S0100,42074.24
+P00716,Adaptive neutral complexity,Furniture,S0088,12185.61
+P00717,Open-source solution-oriented leverage,Automotive,S0090,5583.79
+P00718,Polarized solution-oriented customer loyalty,Electronics,S0057,15753.25
+P00719,Versatile executive Graphic Interface,Furniture,S0053,34555.96
+P00720,Horizontal secondary approach,Appliances,S0065,38771.12
+P00721,Visionary background projection,Appliances,S0095,36397.36
+P00722,Re-engineered discrete monitoring,Grocery,S0018,25982.29
+P00723,User-centric uniform alliance,Automotive,S0042,49906.33
+P00724,Enhanced intangible conglomeration,Appliances,S0068,18903.56
+P00725,Automated hybrid toolset,Furniture,S0059,45615.0
+P00726,Proactive contextually-based synergy,Clothing,S0070,17778.92
+P00727,Implemented 5thgeneration access,Industrial,S0093,34069.22
+P00728,Innovative non-volatile portal,Industrial,S0089,13291.67
+P00729,Customer-focused full-range forecast,Appliances,S0025,47871.14
+P00730,Persevering secondary moratorium,Clothing,S0072,14995.11
+P00731,Progressive modular challenge,Clothing,S0099,14521.31
+P00732,Profit-focused maximized flexibility,Furniture,S0089,35278.91
+P00733,Ergonomic bifurcated groupware,Clothing,S0062,17505.28
+P00734,Diverse upward-trending knowledgebase,Industrial,S0093,13745.53
+P00735,Stand-alone eco-centric structure,Electronics,S0074,33863.45
+P00736,Enterprise-wide 24/7 support,Appliances,S0051,40937.04
+P00737,Mandatory explicit open system,Industrial,S0019,14593.59
+P00738,Synergistic web-enabled core,Clothing,S0092,4043.57
+P00739,Enhanced reciprocal productivity,Appliances,S0084,12896.55
+P00740,Open-architected interactive migration,Appliances,S0028,10183.19
+P00741,Inverse background initiative,Automotive,S0035,46657.89
+P00742,Synchronized bandwidth-monitored contingency,Grocery,S0035,6949.92
+P00743,Devolved mission-critical Graphic Interface,Automotive,S0095,29382.84
+P00744,Fully-configurable 24hour firmware,Furniture,S0007,33524.71
+P00745,Networked disintermediate knowledge user,Automotive,S0029,31933.43
+P00746,Versatile encompassing groupware,Electronics,S0013,20723.74
+P00747,Innovative optimal success,Grocery,S0061,5117.19
+P00748,Re-engineered 24/7 firmware,Industrial,S0018,358.55
+P00749,Streamlined high-level solution,Automotive,S0021,20404.68
+P00750,Front-line analyzing secured line,Appliances,S0062,32561.88
+P00751,Decentralized maximized function,Industrial,S0037,16126.27
+P00752,Diverse impactful software,Grocery,S0008,45406.05
+P00753,Profit-focused tertiary throughput,Electronics,S0084,28749.25
+P00754,Integrated system-worthy capability,Automotive,S0095,36183.57
+P00755,Sharable explicit hub,Electronics,S0023,20952.46
+P00756,Seamless directional definition,Industrial,S0023,46702.74
+P00757,Devolved mission-critical collaboration,Electronics,S0051,39419.24
+P00758,Persevering value-added portal,Furniture,S0096,48110.36
+P00759,Multi-layered intangible standardization,Clothing,S0005,562.43
+P00760,Reactive methodical system engine,Automotive,S0078,5454.3
+P00761,Public-key static data-warehouse,Clothing,S0037,22772.02
+P00762,Virtual dynamic software,Grocery,S0070,26263.49
+P00763,Versatile radical toolset,Furniture,S0065,23454.24
+P00764,Configurable multi-tasking knowledge user,Furniture,S0015,16601.14
+P00765,Progressive tertiary hierarchy,Grocery,S0059,32449.44
+P00766,Compatible non-volatile budgetary management,Grocery,S0024,802.8
+P00767,Centralized neutral middleware,Clothing,S0038,28432.28
+P00768,Exclusive object-oriented monitoring,Industrial,S0025,8857.2
+P00769,Distributed composite Graphic Interface,Industrial,S0082,44862.43
+P00770,Programmable leadingedge budgetary management,Industrial,S0055,25812.5
+P00771,Synergized demand-driven structure,Electronics,S0052,33495.87
+P00772,Reduced mobile array,Furniture,S0018,23924.96
+P00773,Profound local workforce,Furniture,S0001,13113.19
+P00774,Centralized logistical capacity,Furniture,S0058,37712.46
+P00775,Profound intangible knowledgebase,Clothing,S0039,29164.79
+P00776,Re-contextualized analyzing open architecture,Automotive,S0002,13151.5
+P00777,Persistent systematic workforce,Clothing,S0089,11891.5
+P00778,Integrated uniform adapter,Grocery,S0016,23323.21
+P00779,Object-based eco-centric ability,Furniture,S0052,34335.07
+P00780,User-friendly didactic paradigm,Grocery,S0099,15617.8
+P00781,Compatible 6thgeneration interface,Electronics,S0082,45814.91
+P00782,Monitored tangible architecture,Clothing,S0048,30769.81
+P00783,Quality-focused analyzing architecture,Furniture,S0018,23961.28
+P00784,Phased 5thgeneration forecast,Appliances,S0096,49443.01
+P00785,Open-source contextually-based throughput,Clothing,S0054,35126.84
+P00786,Devolved zero administration project,Appliances,S0097,26922.13
+P00787,Upgradable secondary instruction set,Grocery,S0028,38116.8
+P00788,Multi-layered homogeneous knowledge user,Grocery,S0097,29831.14
+P00789,Multi-tiered homogeneous artificial intelligence,Industrial,S0011,26322.78
+P00790,Synergized stable moratorium,Automotive,S0091,18153.06
+P00791,Devolved solution-oriented hardware,Automotive,S0015,3181.73
+P00792,Decentralized context-sensitive monitoring,Automotive,S0065,10187.62
+P00793,Object-based multi-tasking capacity,Automotive,S0020,8310.4
+P00794,Upgradable directional ability,Industrial,S0067,22147.84
+P00795,Versatile 3rdgeneration framework,Grocery,S0027,35874.21
+P00796,Persistent systematic success,Appliances,S0012,44954.58
+P00797,Quality-focused interactive monitoring,Appliances,S0008,22726.27
+P00798,Multi-tiered discrete encryption,Automotive,S0054,22894.24
+P00799,Persevering grid-enabled collaboration,Electronics,S0072,23172.68
+P00800,Grass-roots content-based success,Industrial,S0040,36191.68
+P00801,Virtual bifurcated alliance,Appliances,S0033,40841.02
+P00802,Switchable intangible pricing structure,Grocery,S0028,28957.73
+P00803,Visionary 3rdgeneration encoding,Electronics,S0055,17291.99
+P00804,Expanded asymmetric attitude,Electronics,S0070,49706.77
+P00805,Right-sized 5thgeneration knowledge user,Electronics,S0061,1683.57
+P00806,Right-sized systematic strategy,Appliances,S0024,38471.71
+P00807,Business-focused dynamic support,Industrial,S0083,48918.83
+P00808,Balanced impactful intranet,Grocery,S0054,18785.6
+P00809,Focused needs-based data-warehouse,Appliances,S0058,43494.05
+P00810,Versatile zero-defect approach,Appliances,S0049,4104.47
+P00811,Devolved motivating frame,Grocery,S0070,6736.19
+P00812,Focused upward-trending orchestration,Industrial,S0045,6019.8
+P00813,Intuitive object-oriented policy,Automotive,S0051,26489.24
+P00814,Visionary systematic Graphic Interface,Grocery,S0029,41757.6
+P00815,Front-line exuding circuit,Industrial,S0003,48926.69
+P00816,Switchable multi-state definition,Appliances,S0087,35982.79
+P00817,Open-source exuding focus group,Appliances,S0069,19025.9
+P00818,Centralized next generation parallelism,Furniture,S0032,23085.2
+P00819,User-centric context-sensitive product,Furniture,S0036,9505.17
+P00820,Synergistic interactive open architecture,Grocery,S0098,5730.95
+P00821,Proactive actuating hardware,Industrial,S0085,21020.11
+P00822,Stand-alone static implementation,Industrial,S0003,12109.25
+P00823,Progressive foreground standardization,Electronics,S0013,29737.81
+P00824,Operative incremental collaboration,Appliances,S0077,33633.98
+P00825,Innovative homogeneous contingency,Industrial,S0007,12312.23
+P00826,Versatile national leverage,Electronics,S0052,22004.24
+P00827,Front-line directional framework,Automotive,S0028,37743.85
+P00828,Triple-buffered client-server workforce,Industrial,S0008,7092.77
+P00829,Persistent analyzing open architecture,Clothing,S0030,40807.73
+P00830,Open-source intangible open architecture,Grocery,S0074,16013.29
+P00831,Progressive client-driven info-mediaries,Automotive,S0099,33659.34
+P00832,Fully-configurable eco-centric database,Clothing,S0031,15158.05
+P00833,Managed secondary artificial intelligence,Furniture,S0085,26110.43
+P00834,Organized holistic array,Appliances,S0039,13830.18
+P00835,Public-key uniform core,Automotive,S0076,43997.72
+P00836,Business-focused encompassing implementation,Furniture,S0081,33969.63
+P00837,Synergistic real-time portal,Automotive,S0064,2439.52
+P00838,Balanced asynchronous core,Clothing,S0083,33599.99
+P00839,Virtual optimizing success,Industrial,S0068,16004.85
+P00840,Synchronized next generation data-warehouse,Appliances,S0053,7545.96
+P00841,Polarized demand-driven groupware,Appliances,S0024,37745.36
+P00842,Innovative 24/7 data-warehouse,Appliances,S0031,42482.11
+P00843,Ergonomic user-facing capability,Clothing,S0091,7303.15
+P00844,User-friendly web-enabled matrices,Appliances,S0008,28163.06
+P00845,Fully-configurable tangible portal,Appliances,S0072,26546.59
+P00846,Triple-buffered demand-driven infrastructure,Appliances,S0032,12824.28
+P00847,Front-line neutral Graphic Interface,Clothing,S0083,4045.61
+P00848,Vision-oriented executive implementation,Appliances,S0048,4713.95
+P00849,Persistent national projection,Grocery,S0025,2671.68
+P00850,Multi-channeled fault-tolerant firmware,Appliances,S0087,30287.98
+P00851,Multi-lateral multimedia methodology,Electronics,S0010,9489.35
+P00852,Persistent bandwidth-monitored website,Industrial,S0076,36242.83
+P00853,Up-sized methodical task-force,Automotive,S0028,24021.77
+P00854,Intuitive demand-driven hub,Industrial,S0043,15229.08
+P00855,Intuitive incremental analyzer,Electronics,S0028,46864.27
+P00856,Re-contextualized directional support,Grocery,S0016,37369.27
+P00857,Digitized 3rdgeneration firmware,Industrial,S0062,45730.62
+P00858,Reactive optimal paradigm,Grocery,S0078,35218.05
+P00859,Up-sized intangible frame,Appliances,S0031,27648.76
+P00860,Distributed dedicated groupware,Industrial,S0037,19095.02
+P00861,Focused homogeneous open system,Automotive,S0084,18027.05
+P00862,Fully-configurable modular neural-net,Clothing,S0047,25689.55
+P00863,Streamlined systemic Graphical User Interface,Appliances,S0060,5020.55
+P00864,Function-based well-modulated matrix,Grocery,S0061,38105.29
+P00865,Up-sized secondary support,Clothing,S0027,18598.18
+P00866,Pre-emptive logistical concept,Appliances,S0006,28169.98
+P00867,Upgradable heuristic concept,Furniture,S0095,7381.54
+P00868,Devolved uniform moratorium,Clothing,S0071,46744.44
+P00869,Pre-emptive contextually-based moratorium,Automotive,S0093,20937.15
+P00870,Stand-alone analyzing moderator,Furniture,S0026,16560.28
+P00871,Automated asynchronous secured line,Appliances,S0073,41684.8
+P00872,Business-focused well-modulated ability,Appliances,S0071,32764.94
+P00873,Open-source client-driven product,Grocery,S0044,12940.61
+P00874,Focused asymmetric strategy,Industrial,S0063,48328.76
+P00875,Distributed 24/7 data-warehouse,Grocery,S0095,24580.72
+P00876,Profit-focused logistical hub,Furniture,S0094,39769.28
+P00877,Centralized regional productivity,Furniture,S0018,36043.65
+P00878,Synchronized reciprocal matrices,Appliances,S0024,45853.28
+P00879,Switchable mobile adapter,Automotive,S0083,47866.12
+P00880,Adaptive national neural-net,Automotive,S0005,41969.52
+P00881,Open-source 24/7 adapter,Electronics,S0086,2520.87
+P00882,Progressive uniform focus group,Electronics,S0053,6960.83
+P00883,Public-key executive adapter,Grocery,S0030,3491.6
+P00884,Profit-focused tangible service-desk,Furniture,S0002,11014.11
+P00885,Optional context-sensitive benchmark,Appliances,S0048,3116.46
+P00886,Cross-platform multi-tasking collaboration,Grocery,S0086,46701.8
+P00887,Front-line content-based process improvement,Appliances,S0085,24443.93
+P00888,Progressive eco-centric help-desk,Electronics,S0069,27627.01
+P00889,Future-proofed hybrid artificial intelligence,Electronics,S0003,26517.94
+P00890,Multi-layered impactful knowledgebase,Clothing,S0069,48876.22
+P00891,Re-contextualized dynamic standardization,Electronics,S0065,40676.55
+P00892,Face-to-face exuding software,Grocery,S0056,40327.77
+P00893,Configurable solution-oriented projection,Furniture,S0014,45910.64
+P00894,Virtual 5thgeneration array,Automotive,S0020,12124.34
+P00895,Open-architected homogeneous implementation,Automotive,S0068,12695.67
+P00896,Reactive methodical approach,Clothing,S0035,39767.32
+P00897,Sharable 24/7 standardization,Electronics,S0048,47968.96
+P00898,Down-sized attitude-oriented methodology,Appliances,S0073,12236.07
+P00899,Optional secondary toolset,Grocery,S0029,15068.73
+P00900,Managed non-volatile attitude,Industrial,S0011,32721.41
+P00901,Progressive 6thgeneration emulation,Industrial,S0084,38003.33
+P00902,Extended system-worthy open system,Electronics,S0052,19025.27
+P00903,Phased encompassing analyzer,Automotive,S0061,2900.14
+P00904,Compatible systemic focus group,Electronics,S0090,8652.04
+P00905,Quality-focused non-volatile protocol,Appliances,S0056,32280.87
+P00906,Automated context-sensitive functionalities,Clothing,S0073,48868.73
+P00907,Ameliorated demand-driven parallelism,Electronics,S0068,45965.7
+P00908,Digitized web-enabled structure,Furniture,S0028,45073.52
+P00909,Object-based asynchronous framework,Grocery,S0073,23827.46
+P00910,Diverse non-volatile encoding,Electronics,S0010,34252.99
+P00911,Re-contextualized human-resource service-desk,Clothing,S0070,28219.14
+P00912,Quality-focused full-range info-mediaries,Electronics,S0023,46445.44
+P00913,Versatile user-facing challenge,Clothing,S0003,48077.31
+P00914,Team-oriented uniform artificial intelligence,Automotive,S0019,37637.5
+P00915,Profit-focused value-added hardware,Grocery,S0051,46450.86
+P00916,Business-focused bandwidth-monitored Internet solution,Clothing,S0021,28241.51
+P00917,Focused asynchronous Graphical User Interface,Automotive,S0050,33884.04
+P00918,Robust zero administration pricing structure,Automotive,S0043,19253.93
+P00919,Right-sized hybrid time-frame,Grocery,S0018,39545.85
+P00920,Inverse 4thgeneration productivity,Grocery,S0093,4013.54
+P00921,Future-proofed zero tolerance knowledge user,Grocery,S0045,2779.45
+P00922,Pre-emptive discrete help-desk,Appliances,S0030,41949.87
+P00923,Reactive homogeneous Internet solution,Clothing,S0078,38473.38
+P00924,Enterprise-wide systemic paradigm,Automotive,S0051,48449.13
+P00925,Switchable homogeneous artificial intelligence,Clothing,S0004,31742.74
+P00926,Visionary regional frame,Industrial,S0058,24581.11
+P00927,Fully-configurable transitional archive,Clothing,S0071,47063.03
+P00928,Configurable encompassing collaboration,Appliances,S0024,34016.77
+P00929,Multi-tiered transitional toolset,Grocery,S0049,4376.14
+P00930,Sharable coherent support,Automotive,S0038,39922.95
+P00931,Networked foreground hierarchy,Grocery,S0010,4193.7
+P00932,Customer-focused background ability,Furniture,S0049,35612.69
+P00933,Integrated leadingedge hierarchy,Grocery,S0020,37008.8
+P00934,Virtual encompassing benchmark,Clothing,S0047,5416.89
+P00935,De-engineered background contingency,Electronics,S0040,22292.32
+P00936,Optional local open architecture,Industrial,S0035,5201.35
+P00937,Realigned multimedia installation,Electronics,S0024,21605.88
+P00938,Customer-focused 4thgeneration array,Automotive,S0072,25670.8
+P00939,Multi-channeled neutral array,Electronics,S0004,4571.98
+P00940,Right-sized radical toolset,Automotive,S0012,29886.54
+P00941,Inverse human-resource access,Industrial,S0042,43199.54
+P00942,Implemented incremental info-mediaries,Electronics,S0038,20749.12
+P00943,Vision-oriented attitude-oriented success,Industrial,S0011,36269.71
+P00944,Realigned dynamic orchestration,Automotive,S0032,28640.83
+P00945,Programmable composite software,Furniture,S0088,19098.53
+P00946,Multi-tiered composite challenge,Furniture,S0035,15126.45
+P00947,Future-proofed exuding flexibility,Appliances,S0019,3257.03
+P00948,Proactive client-server architecture,Appliances,S0036,21113.01
+P00949,Down-sized intermediate focus group,Appliances,S0010,18120.13
+P00950,Operative exuding matrices,Furniture,S0093,31289.18
+P00951,Compatible high-level extranet,Automotive,S0079,9857.86
+P00952,Fully-configurable uniform product,Electronics,S0018,15302.43
+P00953,Proactive radical pricing structure,Appliances,S0043,42096.51
+P00954,Exclusive logistical benchmark,Appliances,S0043,22067.12
+P00955,Devolved exuding ability,Appliances,S0084,48713.85
+P00956,Object-based full-range process improvement,Furniture,S0039,16101.19
+P00957,Multi-tiered full-range intranet,Grocery,S0026,24002.59
+P00958,Managed intermediate projection,Furniture,S0051,48439.39
+P00959,Right-sized client-driven framework,Clothing,S0095,34778.39
+P00960,Inverse real-time solution,Appliances,S0074,39120.52
+P00961,Exclusive mission-critical functionalities,Clothing,S0049,14086.98
+P00962,Enhanced hybrid functionalities,Industrial,S0051,18314.28
+P00963,Implemented user-facing solution,Automotive,S0026,29652.13
+P00964,Sharable mobile orchestration,Automotive,S0024,34117.46
+P00965,Fully-configurable fresh-thinking implementation,Automotive,S0004,47654.93
+P00966,Grass-roots zero tolerance infrastructure,Appliances,S0091,10561.45
+P00967,Multi-lateral bifurcated open system,Industrial,S0038,41580.96
+P00968,Exclusive optimizing moratorium,Electronics,S0053,33681.58
+P00969,Enterprise-wide systemic throughput,Furniture,S0082,15211.35
+P00970,Reactive 4thgeneration superstructure,Clothing,S0085,7791.75
+P00971,Persistent tertiary database,Appliances,S0049,3790.86
+P00972,Organic explicit solution,Automotive,S0062,29153.98
+P00973,Cloned incremental service-desk,Automotive,S0065,46182.44
+P00974,Proactive client-driven productivity,Industrial,S0089,20973.2
+P00975,Innovative disintermediate extranet,Electronics,S0047,35111.55
+P00976,Switchable coherent structure,Industrial,S0069,29731.62
+P00977,Optimized homogeneous archive,Electronics,S0014,38470.81
+P00978,Organized radical matrices,Grocery,S0086,17814.94
+P00979,Reduced impactful monitoring,Grocery,S0079,2310.41
+P00980,Profit-focused system-worthy instruction set,Grocery,S0087,32372.51
+P00981,Quality-focused 5thgeneration utilization,Industrial,S0043,48289.27
+P00982,Multi-lateral tangible workforce,Appliances,S0014,626.33
+P00983,Public-key radical productivity,Clothing,S0029,25582.74
+P00984,Configurable bi-directional throughput,Automotive,S0072,29067.86
+P00985,Fully-configurable stable secured line,Automotive,S0029,22344.35
+P00986,Multi-channeled composite project,Appliances,S0060,38639.88
+P00987,Seamless 6thgeneration open system,Automotive,S0089,25073.24
+P00988,Stand-alone systematic project,Clothing,S0004,24190.28
+P00989,Open-architected web-enabled groupware,Clothing,S0054,46035.32
+P00990,Optional bi-directional access,Electronics,S0015,41582.76
+P00991,Cross-platform empowering definition,Grocery,S0019,17481.6
+P00992,Profound value-added model,Clothing,S0059,39235.07
+P00993,Realigned optimal solution,Automotive,S0062,17480.18
+P00994,Re-engineered directional knowledge user,Electronics,S0057,36127.5
+P00995,Multi-layered hybrid Local Area Network,Appliances,S0041,3452.0
+P00996,Visionary systematic parallelism,Electronics,S0091,5842.75
+P00997,Team-oriented motivating collaboration,Industrial,S0044,32433.7
+P00998,Monitored 4thgeneration matrices,Grocery,S0022,46503.13
+P00999,Customer-focused explicit instruction set,Grocery,S0032,25848.1
+P01000,Configurable bifurcated superstructure,Automotive,S0021,16616.38

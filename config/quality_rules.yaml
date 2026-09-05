@@ -1,0 +1,130 @@
+suppliers:
+  required_columns:
+    - supplier_id
+    - supplier_name
+    - location
+    - country
+    - lead_time_days
+    - reliability_score
+
+  unique_columns:
+    - supplier_id
+
+  numeric_ranges:
+    lead_time_days:
+      min: 1
+
+    reliability_score:
+      min: 0
+      max: 1
+
+
+products:
+  required_columns:
+    - product_id
+    - product_name
+    - category
+    - supplier_id
+    - unit_cost
+
+  unique_columns:
+    - product_id
+
+  numeric_ranges:
+    unit_cost:
+      min: 0
+
+
+warehouses:
+  required_columns:
+    - warehouse_id
+    - warehouse_name
+    - city
+    - state
+    - capacity
+
+  unique_columns:
+    - warehouse_id
+
+  numeric_ranges:
+    capacity:
+      min: 1
+
+
+customers:
+  required_columns:
+    - customer_id
+    - customer_name
+    - city
+    - state
+    - registration_date
+
+  unique_columns:
+    - customer_id
+
+
+inventory:
+  required_columns:
+    - inventory_id
+    - product_id
+    - warehouse_id
+    - stock_quantity
+    - reorder_level
+    - safety_stock
+    - inventory_date
+
+  unique_columns:
+    - inventory_id
+
+  numeric_ranges:
+    stock_quantity:
+      min: 0
+
+    reorder_level:
+      min: 0
+
+    safety_stock:
+      min: 0
+
+
+orders:
+  required_columns:
+    - order_id
+    - customer_id
+    - product_id
+    - warehouse_id
+    - order_date
+    - quantity
+    - unit_price
+    - status
+    - priority
+
+  unique_columns:
+    - order_id
+
+  numeric_ranges:
+    quantity:
+      min: 1
+
+    unit_price:
+      min: 0
+
+
+shipments:
+  required_columns:
+    - shipment_id
+    - order_id
+    - supplier_id
+    - warehouse_id
+    - dispatch_date
+    - expected_delivery_date
+    - actual_delivery_date
+    - shipping_mode
+    - shipping_cost
+
+  unique_columns:
+    - shipment_id
+
+  numeric_ranges:
+    shipping_cost:
+      min: 0
